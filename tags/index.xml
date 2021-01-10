@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 青菜斜斜的</title>
+    <link>https://ericla.gitgub.io/tags/</link>
+    <description>Recent content in Tags on 青菜斜斜的</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 10 Jan 2020 10:07:47 +0800</lastBuildDate><atom:link href="https://ericla.gitgub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://ericla.gitgub.io/tags/python/</link>
+      <pubDate>Fri, 10 Jan 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://ericla.gitgub.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://ericla.gitgub.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ericla.gitgub.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://ericla.gitgub.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ericla.gitgub.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://ericla.gitgub.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ericla.gitgub.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://ericla.gitgub.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ericla.gitgub.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

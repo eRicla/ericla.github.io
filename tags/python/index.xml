@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 青菜斜斜的</title>
+    <link>https://ericla.gitgub.io/tags/python/</link>
+    <description>Recent content in Python on 青菜斜斜的</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 10 Jan 2020 10:07:47 +0800</lastBuildDate><atom:link href="https://ericla.gitgub.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>艾瑞克的第一篇文章</title>
+      <link>https://ericla.gitgub.io/blog/test/</link>
+      <pubDate>Fri, 10 Jan 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://ericla.gitgub.io/blog/test/</guid>
+      <description>hello world
+我是艾瑞克
+一級標題 二級標題 六級標題 我是艾瑞克，我喜歡學習</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://ericla.gitgub.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ericla.gitgub.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
