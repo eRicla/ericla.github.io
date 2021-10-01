@@ -64,5 +64,5 @@ btn.addEventListener("click",function(e){
     data.push(obj);
     init();
     stationName.value="";
-    stationCharge.value="";
+    stationCharge.value="免費";
 })
