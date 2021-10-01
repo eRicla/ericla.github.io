@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-還沒想到要怎麼做，就先隨手記錄一些有的沒有的，算是一個留念吧:)
+還沒想到要寫什麼，就先隨手記錄一些隨手亂寫的東西，也算是一個留念吧:)
 
 ### JavaScript練習集
 - [猜數字](https://ericla.github.io/guessNumber/)：第一個用 `JavaScript` 寫的小遊戲，主要是要寫給小孩玩的，版面內容雖然很陽春但對他們已經覺得足夠且很趣了 😁
