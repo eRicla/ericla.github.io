@@ -8,3 +8,4 @@
     - 使用 `forEach` + `if` 的方式去撈取及判斷資料
     - 使用了 `function` 去定義初始資料
     - 用了 `.push` 的方式去新增資料
+- [axios](https://github.com/eRicla/ericla.github.io/tree/main/axios_Getdate)：使用axios抓取json資料，從中看到了非同步資料狀態的呈現，最後透過 `renderData` 函示去呈現抓取後的資料，把相關需要的結果寫在裡面，除了可以確認資料外也可以確保程式的簡潔性
