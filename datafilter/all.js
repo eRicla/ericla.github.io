@@ -31,6 +31,13 @@ function init(){
 
 init();
 
+/*
+針對class去指定條件，在主控台會有累計的次數
+用.class去指定，就會要寫一堆code，因為每一個都要指定；但若用div包起來，就可以針對裡面不同的value去判斷，code相對會少很多，邏輯判斷上也比較簡單
+先用e.target去判斷回傳值，因為用div包出來就會有undefined的問題，所以要先去排除
+用e.target去指定條件
+ */
+
 //針對條件做篩選
 const stationFilter = document.querySelector(".filter");
 stationFilter.addEventListener("click",function(e){
