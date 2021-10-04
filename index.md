@@ -10,4 +10,4 @@
     - 使用了 `function` 去定義初始資料
     - 用了 `.push` 的方式去新增資料
 - [axios](https://github.com/eRicla/ericla.github.io/tree/main/axios_Getdate)：使用axios抓取json資料，從中看到了非同步資料狀態的呈現，最後透過 `renderData` 函示去呈現抓取後的資料，把相關需要的結果寫在裡面，除了可以確認資料外也可以確保程式的簡潔性
-- [axios+api+資料篩選](https://github.com/eRicla/ericla.github.io/tree/main/api_datafilter)：透過axios api去抓取Open API資料，並結合之前內容作一個條件篩選及全選
+- [axios+api+資料篩選](https://github.com/eRicla/ericla.github.io/tree/main/api_datafilter)：透過axios api去抓取Open API資料，並結合之前內容作一個條件篩選及全選，若要看[操作畫面](https://codepen.io/ericla/pen/BaZeYmJ?editors=0010)可以到codepen看 
