@@ -8,14 +8,17 @@ axios.get('https://api.kcg.gov.tw/api/service/Get/b4dd9c40-9027-4125-8666-06bef1
 
 const filter = document.querySelector(".filter");
 const list = document.querySelector(".list");
+const table = document.querySelector("table");
 
 function renderData() {
   function init(){
     let str1=""
     ary.forEach(function(item,index){
     // console.log(item);
-    str1 += `<li>${item.sarea}，${item.ar}</li>`
-    list.innerHTML = str1;
+    // str1 += `<li>${item.sarea}，${item.ar}</li>`
+    str1 += `<tr><td>${item.sarea}</td> <td>${item.sna}</td> <td>${item.ar}</tr></tr>`
+    table.innerHTML = str1;
+    
   })
   }
   
@@ -26,16 +29,13 @@ function renderData() {
         return;
       }
       let str=""
-      //篩選 = 全部 or 鳳山區
       ary.forEach(function(item,index){
         if(e.target.value == "全部"){
-          str += `<li>${item.sarea}，${item.ar}</li>`
+          str += `<tr><td>${item.sarea}</td> <td>${item.sna}</td> <td>${item.ar}</tr></tr>`
         }else if (e.target.value == item.sarea){ 
-          str += `<li>${item.sarea}，${item.ar}</li>`
+          str += `<tr><td>${item.sarea}</td> <td>${item.sna}</td> <td>${item.ar}</tr></tr>`
         }
       })
-      list.innerHTML = str;
+      table.innerHTML = str;
   })
 } 
-
-
